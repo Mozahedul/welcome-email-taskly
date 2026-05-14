@@ -1,0 +1,22 @@
+{
+  "name": "welcome-email-taskly",
+  "version": "1.0.0",
+  "description": "An email template on welcome email",
+  "homepage": "https://github.com/Mozahedul/welcome-email-taskly#readme",
+  "bugs": {
+    "url": "https://github.com/Mozahedul/welcome-email-taskly/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mozahedul/welcome-email-taskly.git"
+  },
+  "license": "MIT",
+  "author": "Mozahedul Islam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mjml index.mjml -o index.html",
+    "watch": "nodemon --ext mjml --exec \"npm run build\""
+  }
+}
