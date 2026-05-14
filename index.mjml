@@ -13,8 +13,8 @@
 
     <!-- Google Font -->
     <mj-font
-      name="Montserrat"
-      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      name="Inter"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
     />
 
     <!--
@@ -61,7 +61,7 @@
     <mj-attributes>
       <!-- Entire Email -->
       <mj-all
-        font-family="'Montserrat', Georgia, 'Times New Roman', Arial, serif"
+        font-family="'Inter', Georgia, 'Times New Roman', Arial, serif"
         color="#444444"
         line-height="1.5"
       />
@@ -390,7 +390,7 @@
           <mj-text font-size="16px" font-weight="bold" css-class="dm-text-h">
             Create Your Workspace
           </mj-text>
-          <mj-text font-size="14px" font-weight="500" css-class="dm-text-h">
+          <mj-text font-size="13px" font-weight="500" css-class="dm-text-h">
             Setup your space and invite your team
           </mj-text>
         </mj-column>
@@ -423,7 +423,7 @@
           <mj-text font-size="16px" font-weight="bold" css-class="dm-text-h">
             Add Your First Task
           </mj-text>
-          <mj-text font-size="14px" font-weight="500" css-class="dm-text-h">
+          <mj-text font-size="13px" font-weight="500" css-class="dm-text-h">
             Plan, organize, and get things done
           </mj-text>
         </mj-column>
@@ -456,7 +456,7 @@
           <mj-text font-size="16px" font-weight="bold" css-class="dm-text-h">
             Explore Features
           </mj-text>
-          <mj-text font-size="14px" font-weight="500" css-class="dm-text-h">
+          <mj-text font-size="13px" font-weight="500" css-class="dm-text-h">
             Discover peaceful features built for productivity
           </mj-text>
         </mj-column>
